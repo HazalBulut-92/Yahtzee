@@ -1,0 +1,332 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\orcun\\Desktop\\Hazal\\Yahtzee Game\\Yahtzee\\YahtzeeGame.Tests\\LoggerTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B126FD-F4D6-4B5C-B211-9954D97EC2B3}|YahtzeeGame.csproj|d:\\github\\yahtzee game\\yahtzee\\yahtzeegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B126FD-F4D6-4B5C-B211-9954D97EC2B3}|YahtzeeGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B126FD-F4D6-4B5C-B211-9954D97EC2B3}|YahtzeeGame.csproj|d:\\github\\yahtzee game\\yahtzee\\yahtzeegame\\strategies\\yahtzeescorestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B126FD-F4D6-4B5C-B211-9954D97EC2B3}|YahtzeeGame.csproj|solutionrelative:strategies\\yahtzeescorestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B126FD-F4D6-4B5C-B211-9954D97EC2B3}|YahtzeeGame.csproj|d:\\github\\yahtzee game\\yahtzee\\yahtzeegame\\strategies\\twopairstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B126FD-F4D6-4B5C-B211-9954D97EC2B3}|YahtzeeGame.csproj|solutionrelative:strategies\\twopairstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B126FD-F4D6-4B5C-B211-9954D97EC2B3}|YahtzeeGame.csproj|d:\\github\\yahtzee game\\yahtzee\\yahtzeegame\\strategies\\threeofakindstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B126FD-F4D6-4B5C-B211-9954D97EC2B3}|YahtzeeGame.csproj|solutionrelative:strategies\\threeofakindstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B126FD-F4D6-4B5C-B211-9954D97EC2B3}|YahtzeeGame.csproj|d:\\github\\yahtzee game\\yahtzee\\yahtzeegame\\strategies\\smallstraightstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B126FD-F4D6-4B5C-B211-9954D97EC2B3}|YahtzeeGame.csproj|solutionrelative:strategies\\smallstraightstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B126FD-F4D6-4B5C-B211-9954D97EC2B3}|YahtzeeGame.csproj|d:\\github\\yahtzee game\\yahtzee\\yahtzeegame\\strategies\\scorepairstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B126FD-F4D6-4B5C-B211-9954D97EC2B3}|YahtzeeGame.csproj|solutionrelative:strategies\\scorepairstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B126FD-F4D6-4B5C-B211-9954D97EC2B3}|YahtzeeGame.csproj|d:\\github\\yahtzee game\\yahtzee\\yahtzeegame\\strategies\\scorefornumberstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B126FD-F4D6-4B5C-B211-9954D97EC2B3}|YahtzeeGame.csproj|solutionrelative:strategies\\scorefornumberstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B126FD-F4D6-4B5C-B211-9954D97EC2B3}|YahtzeeGame.csproj|d:\\github\\yahtzee game\\yahtzee\\yahtzeegame\\strategies\\onesscorestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B126FD-F4D6-4B5C-B211-9954D97EC2B3}|YahtzeeGame.csproj|solutionrelative:strategies\\onesscorestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B126FD-F4D6-4B5C-B211-9954D97EC2B3}|YahtzeeGame.csproj|d:\\github\\yahtzee game\\yahtzee\\yahtzeegame\\strategies\\largestraightstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B126FD-F4D6-4B5C-B211-9954D97EC2B3}|YahtzeeGame.csproj|solutionrelative:strategies\\largestraightstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B126FD-F4D6-4B5C-B211-9954D97EC2B3}|YahtzeeGame.csproj|d:\\github\\yahtzee game\\yahtzee\\yahtzeegame\\strategies\\fullhousestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B126FD-F4D6-4B5C-B211-9954D97EC2B3}|YahtzeeGame.csproj|solutionrelative:strategies\\fullhousestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B126FD-F4D6-4B5C-B211-9954D97EC2B3}|YahtzeeGame.csproj|d:\\github\\yahtzee game\\yahtzee\\yahtzeegame\\strategies\\fourofakindstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B126FD-F4D6-4B5C-B211-9954D97EC2B3}|YahtzeeGame.csproj|solutionrelative:strategies\\fourofakindstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B126FD-F4D6-4B5C-B211-9954D97EC2B3}|YahtzeeGame.csproj|d:\\github\\yahtzee game\\yahtzee\\yahtzeegame\\strategies\\chancescorestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B126FD-F4D6-4B5C-B211-9954D97EC2B3}|YahtzeeGame.csproj|solutionrelative:strategies\\chancescorestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B126FD-F4D6-4B5C-B211-9954D97EC2B3}|YahtzeeGame.csproj|d:\\github\\yahtzee game\\yahtzee\\yahtzeegame\\services\\randomdiceroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B126FD-F4D6-4B5C-B211-9954D97EC2B3}|YahtzeeGame.csproj|solutionrelative:services\\randomdiceroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B126FD-F4D6-4B5C-B211-9954D97EC2B3}|YahtzeeGame.csproj|d:\\github\\yahtzee game\\yahtzee\\yahtzeegame\\management\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B126FD-F4D6-4B5C-B211-9954D97EC2B3}|YahtzeeGame.csproj|solutionrelative:management\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B126FD-F4D6-4B5C-B211-9954D97EC2B3}|YahtzeeGame.csproj|d:\\github\\yahtzee game\\yahtzee\\yahtzeegame\\management\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B126FD-F4D6-4B5C-B211-9954D97EC2B3}|YahtzeeGame.csproj|solutionrelative:management\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B126FD-F4D6-4B5C-B211-9954D97EC2B3}|YahtzeeGame.csproj|d:\\github\\yahtzee game\\yahtzee\\yahtzeegame\\interfaces\\iscorestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B126FD-F4D6-4B5C-B211-9954D97EC2B3}|YahtzeeGame.csproj|solutionrelative:interfaces\\iscorestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B126FD-F4D6-4B5C-B211-9954D97EC2B3}|YahtzeeGame.csproj|d:\\github\\yahtzee game\\yahtzee\\yahtzeegame\\interfaces\\idiceroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B126FD-F4D6-4B5C-B211-9954D97EC2B3}|YahtzeeGame.csproj|solutionrelative:interfaces\\idiceroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\orcun\\Desktop\\Hazal\\YahtzeeGame.Tests\\YahtzeeGameTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\orcun\\Desktop\\Hazal\\YahtzeeGame.Tests\\YahtzeeGame.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoggerTests.cs",
+              "DocumentMoniker": "C:\\Users\\orcun\\Desktop\\Hazal\\Yahtzee Game\\Yahtzee\\YahtzeeGame.Tests\\LoggerTests.cs",
+              "ToolTip": "C:\\Users\\orcun\\Desktop\\Hazal\\Yahtzee Game\\Yahtzee\\YahtzeeGame.Tests\\LoggerTests.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:25:28.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TwoPairStrategy.cs",
+              "DocumentMoniker": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\Strategies\\TwoPairStrategy.cs",
+              "RelativeDocumentMoniker": "Strategies\\TwoPairStrategy.cs",
+              "ToolTip": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\Strategies\\TwoPairStrategy.cs",
+              "RelativeToolTip": "Strategies\\TwoPairStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T18:44:12.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "YahtzeeScoreStrategy.cs",
+              "DocumentMoniker": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\Strategies\\YahtzeeScoreStrategy.cs",
+              "RelativeDocumentMoniker": "Strategies\\YahtzeeScoreStrategy.cs",
+              "ToolTip": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\Strategies\\YahtzeeScoreStrategy.cs",
+              "RelativeToolTip": "Strategies\\YahtzeeScoreStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:45:14.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAkwFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:54:06.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThreeOfAKindStrategy.cs",
+              "DocumentMoniker": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\Strategies\\ThreeOfAKindStrategy.cs",
+              "RelativeDocumentMoniker": "Strategies\\ThreeOfAKindStrategy.cs",
+              "ToolTip": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\Strategies\\ThreeOfAKindStrategy.cs",
+              "RelativeToolTip": "Strategies\\ThreeOfAKindStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T18:44:34.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SmallStraightStrategy.cs",
+              "DocumentMoniker": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\Strategies\\SmallStraightStrategy.cs",
+              "RelativeDocumentMoniker": "Strategies\\SmallStraightStrategy.cs",
+              "ToolTip": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\Strategies\\SmallStraightStrategy.cs",
+              "RelativeToolTip": "Strategies\\SmallStraightStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T18:45:24.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScorePairStrategy.cs",
+              "DocumentMoniker": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\Strategies\\ScorePairStrategy.cs",
+              "RelativeDocumentMoniker": "Strategies\\ScorePairStrategy.cs",
+              "ToolTip": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\Strategies\\ScorePairStrategy.cs",
+              "RelativeToolTip": "Strategies\\ScorePairStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T18:43:43.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScoreForNumberStrategy.cs",
+              "DocumentMoniker": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\Strategies\\ScoreForNumberStrategy.cs",
+              "RelativeDocumentMoniker": "Strategies\\ScoreForNumberStrategy.cs",
+              "ToolTip": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\Strategies\\ScoreForNumberStrategy.cs",
+              "RelativeToolTip": "Strategies\\ScoreForNumberStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T18:43:23.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OnesScoreStrategy.cs",
+              "DocumentMoniker": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\Strategies\\OnesScoreStrategy.cs",
+              "RelativeDocumentMoniker": "Strategies\\OnesScoreStrategy.cs",
+              "ToolTip": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\Strategies\\OnesScoreStrategy.cs",
+              "RelativeToolTip": "Strategies\\OnesScoreStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:47:26.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LargeStraightStrategy.cs",
+              "DocumentMoniker": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\Strategies\\LargeStraightStrategy.cs",
+              "RelativeDocumentMoniker": "Strategies\\LargeStraightStrategy.cs",
+              "ToolTip": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\Strategies\\LargeStraightStrategy.cs",
+              "RelativeToolTip": "Strategies\\LargeStraightStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:23:47.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FourOfAKindStrategy.cs",
+              "DocumentMoniker": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\Strategies\\FourOfAKindStrategy.cs",
+              "RelativeDocumentMoniker": "Strategies\\FourOfAKindStrategy.cs",
+              "ToolTip": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\Strategies\\FourOfAKindStrategy.cs",
+              "RelativeToolTip": "Strategies\\FourOfAKindStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:23:44.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FullHouseStrategy.cs",
+              "DocumentMoniker": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\Strategies\\FullHouseStrategy.cs",
+              "RelativeDocumentMoniker": "Strategies\\FullHouseStrategy.cs",
+              "ToolTip": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\Strategies\\FullHouseStrategy.cs",
+              "RelativeToolTip": "Strategies\\FullHouseStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T12:54:56.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RandomDiceRoller.cs",
+              "DocumentMoniker": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\Services\\RandomDiceRoller.cs",
+              "RelativeDocumentMoniker": "Services\\RandomDiceRoller.cs",
+              "ToolTip": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\Services\\RandomDiceRoller.cs",
+              "RelativeToolTip": "Services\\RandomDiceRoller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:56:09.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChanceScoreStrategy.cs",
+              "DocumentMoniker": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\Strategies\\ChanceScoreStrategy.cs",
+              "RelativeDocumentMoniker": "Strategies\\ChanceScoreStrategy.cs",
+              "ToolTip": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\Strategies\\ChanceScoreStrategy.cs",
+              "RelativeToolTip": "Strategies\\ChanceScoreStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:45:04.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\Management\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Management\\ScoreManager.cs",
+              "ToolTip": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\Management\\ScoreManager.cs",
+              "RelativeToolTip": "Management\\ScoreManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T01:23:39.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\Management\\GameManager.cs",
+              "RelativeDocumentMoniker": "Management\\GameManager.cs",
+              "ToolTip": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\Management\\GameManager.cs",
+              "RelativeToolTip": "Management\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:57:13.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IScoreStrategy.cs",
+              "DocumentMoniker": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\Interfaces\\IScoreStrategy.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IScoreStrategy.cs",
+              "ToolTip": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\Interfaces\\IScoreStrategy.cs",
+              "RelativeToolTip": "Interfaces\\IScoreStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:47:28.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IDiceRoller.cs",
+              "DocumentMoniker": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\Interfaces\\IDiceRoller.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IDiceRoller.cs",
+              "ToolTip": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\Interfaces\\IDiceRoller.cs",
+              "RelativeToolTip": "Interfaces\\IDiceRoller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:55:22.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "YahtzeeGameTests.cs",
+              "DocumentMoniker": "C:\\Users\\orcun\\Desktop\\Hazal\\YahtzeeGame.Tests\\YahtzeeGameTests.cs",
+              "ToolTip": "C:\\Users\\orcun\\Desktop\\Hazal\\YahtzeeGame.Tests\\YahtzeeGameTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T22:04:12.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "YahtzeeGame.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\orcun\\Desktop\\Hazal\\YahtzeeGame.Tests\\YahtzeeGame.Tests.csproj",
+              "ToolTip": "C:\\Users\\orcun\\Desktop\\Hazal\\YahtzeeGame.Tests\\YahtzeeGame.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-09T15:06:12.807Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
