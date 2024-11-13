@@ -7405,6 +7405,8 @@
       "NUnit >= 4.2.2",
       "Serilog.Sinks.TestCorrelator >= 4.0.0",
       "Serilog.Sinks.XUnit >= 3.0.5",
+      "System.Net.Http >= 4.3.0",
+      "System.Text.RegularExpressions >= 4.3.0",
       "YahtzeeGame >= 1.0.0",
       "coverlet.collector >= 6.0.0",
       "xunit >= 2.5.3",
@@ -7413,22 +7415,25 @@
   },
   "packageFolders": {
     "C:\\Users\\orcun\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame.Tests\\YahtzeeGame.Tests.csproj",
+      "projectUniqueName": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\Yahtzee\\YahtzeeGame.Tests\\YahtzeeGame.Tests.csproj",
       "projectName": "YahtzeeGame.Tests",
-      "projectPath": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame.Tests\\YahtzeeGame.Tests.csproj",
+      "projectPath": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\Yahtzee\\YahtzeeGame.Tests\\YahtzeeGame.Tests.csproj",
       "packagesPath": "C:\\Users\\orcun\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame.Tests\\obj\\",
+      "outputPath": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\Yahtzee\\YahtzeeGame.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\orcun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7436,15 +7441,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\YahtzeeGame.csproj": {
-              "projectPath": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\YahtzeeGame.csproj"
+            "D:\\GitHub\\Yahtzee Game\\Yahtzee\\Yahtzee\\YahtzeeGame\\YahtzeeGame.csproj": {
+              "projectPath": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\Yahtzee\\YahtzeeGame\\YahtzeeGame.csproj"
             }
           }
         }
@@ -7457,8 +7461,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
-      }
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -7479,6 +7484,14 @@
           "Serilog.Sinks.XUnit": {
             "target": "Package",
             "version": "[3.0.5, )"
+          },
+          "System.Net.Http": {
+            "target": "Package",
+            "version": "[4.3.0, )"
+          },
+          "System.Text.RegularExpressions": {
+            "target": "Package",
+            "version": "[4.3.0, )"
           },
           "coverlet.collector": {
             "target": "Package",
@@ -7509,8 +7522,30 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Net.Http' 4.3.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-7jgj-8wvc-jh57",
+      "libraryId": "System.Net.Http",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Text.RegularExpressions' 4.3.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-cmhx-cq75-c4mj",
+      "libraryId": "System.Text.RegularExpressions",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

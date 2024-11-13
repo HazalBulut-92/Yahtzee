@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0sf2fJezhr8=",
+  "dgSpecHash": "uTOhWf7fE+A=",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\YahtzeeGame\\YahtzeeGame.csproj",
+  "projectFilePath": "D:\\GitHub\\Yahtzee Game\\Yahtzee\\Yahtzee\\YahtzeeGame\\YahtzeeGame.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\orcun\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\orcun\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

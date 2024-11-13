@@ -12,6 +12,8 @@
           "NUnit": "4.2.2",
           "Serilog.Sinks.TestCorrelator": "4.0.0",
           "Serilog.Sinks.XUnit": "3.0.5",
+          "System.Net.Http": "4.3.0",
+          "System.Text.RegularExpressions": "4.3.0",
           "YahtzeeGame": "1.0.0",
           "coverlet.collector": "6.0.0",
           "xunit": "2.5.3",

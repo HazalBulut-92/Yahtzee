@@ -1,4 +1,5 @@
-﻿using YahtzeeGame.Interfaces;
+﻿using YahtzeeGame.Helpers;
+using YahtzeeGame.Interfaces;
 
 namespace YahtzeeGame.Strategies
 {
@@ -6,6 +7,8 @@ namespace YahtzeeGame.Strategies
     {
         public int CalculateScore(int[] dice)
         {
+            DiceValidator.ValidateDiceArray(dice);
+
             var requiredNumbers = new int[] { 1, 2, 3, 4, 5 };
             return requiredNumbers.All(dice.Contains) ? 30 : 0;
         }

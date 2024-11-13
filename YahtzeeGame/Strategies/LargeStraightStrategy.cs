@@ -1,13 +1,18 @@
-﻿using YahtzeeGame.Interfaces;
+﻿using YahtzeeGame.Helpers;
+using YahtzeeGame.Interfaces;
 
 namespace YahtzeeGame.Strategies
 {
     public class LargeStraightStrategy : IScoreStrategy
     {
+        private static readonly int[] RequiredNumbers = { 2, 3, 4, 5, 6 };
+
         public int CalculateScore(int[] dice)
         {
-            var requiredNumbers = new int[] { 2, 3, 4, 5, 6 };
-            return requiredNumbers.All(dice.Contains) ? 40 : 0;
+            DiceValidator.ValidateDiceArray(dice);
+
+            // Sort the dice and check if it matches the required sequence
+            return dice.OrderBy(d => d).SequenceEqual(RequiredNumbers) ? 40 : 0;
         }
     }
 }

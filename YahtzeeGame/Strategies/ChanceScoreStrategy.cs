@@ -1,4 +1,5 @@
-﻿using YahtzeeGame.Interfaces;
+﻿using YahtzeeGame.Helpers;
+using YahtzeeGame.Interfaces;
 
 namespace YahtzeeGame.Strategies
 {
@@ -6,6 +7,8 @@ namespace YahtzeeGame.Strategies
     {
         public int CalculateScore(int[] dice)
         {
+            DiceValidator.ValidateDiceArray(dice);
+
             return dice.Sum();
         }
     }

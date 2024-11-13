@@ -1,4 +1,5 @@
-﻿using YahtzeeGame.Interfaces;
+﻿using YahtzeeGame.Helpers;
+using YahtzeeGame.Interfaces;
 
 namespace YahtzeeGame.Strategies
 {
@@ -6,6 +7,8 @@ namespace YahtzeeGame.Strategies
     {
         public int CalculateScore(int[] dice)
         {
+            DiceValidator.ValidateDiceArray(dice);
+
             var fourOfAKind = dice.GroupBy(x => x).FirstOrDefault(g => g.Count() >= 4);
             return fourOfAKind != null ? dice.Sum() : 0;
         }
